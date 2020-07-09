@@ -1,8 +1,8 @@
 # Traductor-a-morse
 
-Este programa de consola traduce letras y frases a código morse.
+Este programa de consola en c# traduce letras y frases a código morse.
 
-This console program translates letters and phrases into Morse code.
+This console program in c# translates letters and phrases into Morse code.
 
 Sigue las mismas reglas:
 
